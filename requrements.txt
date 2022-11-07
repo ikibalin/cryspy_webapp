@@ -1,2 +1,7 @@
 cryspy
 ipywidgets
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
