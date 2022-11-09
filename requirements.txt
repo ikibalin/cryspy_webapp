@@ -1,5 +1,4 @@
 requests
-io
 cryspy
 ipywidgets
 bqplot
