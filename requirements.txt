@@ -1,9 +1,9 @@
 requests
 cryspy
 ipywidgets
-bqplot
+# bqplot
 ipympl
-ipyvolume
+# ipyvolume
 scipy
 voila
 mysql-connector-python
