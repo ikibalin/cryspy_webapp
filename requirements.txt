@@ -1,4 +1,5 @@
 requests
+pycifstar
 cryspy
 ipywidgets
 # bqplot
