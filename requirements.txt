@@ -1,6 +1,6 @@
 requests
 pycifstar
-cryspy==0.7.0
+cryspy
 ipywidgets
 # bqplot
 ipympl
